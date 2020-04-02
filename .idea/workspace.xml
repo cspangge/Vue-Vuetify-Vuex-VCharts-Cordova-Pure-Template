@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="" />
+    <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/vue-build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/img/logo.82b9c7a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/about.c2e47460.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/about.c2e47460.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/app.0297e253.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/app.0297e253.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/chunk-vendors.339613c7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/chunk-vendors.339613c7.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shims-tsx.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shims-tsx.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shims-vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shims-vue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/example.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/example.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZzE3rzOcyG6dNboslPEyrww1lx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,13 +64,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.phonegap.settings.workdir" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RunManager">
     <configuration name="PhoneGap/Cordova run" type="PhoneGap" factoryName="PhoneGap/Cordova">
@@ -56,17 +101,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585833326245</updated>
-      <workItem from="1585833330385" duration="709000" />
+      <workItem from="1585833330385" duration="5419000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1181" y="329" key="SettingsEditor" timestamp="1585833451141">
+    <state width="1678" height="362" key="GridCell.Tab.0.bottom" timestamp="1585835635881">
       <screen x="0" y="23" width="2560" height="1334" />
     </state>
-    <state x="1181" y="329" key="SettingsEditor/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585833451141" />
+    <state width="1678" height="362" key="GridCell.Tab.0.bottom/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635881" />
+    <state width="1678" height="362" key="GridCell.Tab.0.center" timestamp="1585835635879">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1678" height="362" key="GridCell.Tab.0.center/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635879" />
+    <state width="1678" height="362" key="GridCell.Tab.0.left" timestamp="1585835635879">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1678" height="362" key="GridCell.Tab.0.left/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635879" />
+    <state width="1678" height="362" key="GridCell.Tab.0.right" timestamp="1585835635880">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state width="1678" height="362" key="GridCell.Tab.0.right/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635880" />
+    <state x="1181" y="329" key="SettingsEditor" timestamp="1585838199015">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state x="1181" y="329" key="SettingsEditor/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585838199015" />
   </component>
 </project>

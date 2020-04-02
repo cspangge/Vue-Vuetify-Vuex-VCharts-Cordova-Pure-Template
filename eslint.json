@@ -1,0 +1,37 @@
+{
+  "rules": {
+    "class-name": true,
+    "forin": true,
+    "import-spacing": true,
+    "jsdoc-format": true,
+    "label-position": true,
+    "new-parens": true,
+    "no-arg": true,
+    "no-bitwise": true,
+    "no-conditional-assignment": true,
+    "no-consecutive-blank-lines": true,
+    "no-console": true,
+    "no-construct": true,
+    "no-debugger": true,
+    "no-duplicate-super": true,
+    "no-duplicate-variable": true,
+    "no-empty": true,
+    "no-eval": true,
+    "no-reference": true,
+    "no-shadowed-variable": true,
+    "no-string-literal": true,
+    "no-string-throw": true,
+    "no-switch-case-fall-through": false,
+    "no-unused-expression": true,
+    "no-use-before-declare": false,
+    "one-variable-per-declaration": { "options": ["ignore-for-loop"] },
+    "radix": true,
+    "triple-equals": { "options": ["allow-null-check"] },
+    "use-isnan": true,
+    "variable-name": {
+      "options": ["allow-leading-underscore", "ban-keywords", "check-format", "allow-pascal-case"]
+    },
+    "semi": ["error", "always"],
+    "comma-dangle": ["error", "always"]
+  }
+}

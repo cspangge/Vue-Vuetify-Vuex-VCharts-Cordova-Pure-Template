@@ -18,9 +18,24 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <!--    下面这两段代码，是防止上下滑动出现白色或黑色区域    -->
+        <preference name="WebViewBounce" value="false" />
+        <preference name="DisallowOverscroll" value="true" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
+        <!--    下面这三段代码，是关闭系统状态栏，并设置背景颜色    -->
+        <preference name="StatusBarOverlaysWebView" value="false" />
+        <preference name="StatusBarBackgroundColor" value="black" />
+        <preference name="StatusBarDefaultScrollToTop" value="true" />
+        <!--    下面这两段代码，是防止上下滑动出现白色或黑色区域    -->
+        <preference name="WebViewBounce" value="false" />
+        <preference name="DisallowOverscroll" value="true" />
     </platform>
+    <feature name="StatusBar">
+        <param name="ios-package" value="CDVStatusBar" onload="true" />
+    </feature>
+    <plugin name="cordova-plugin-hide-home-indicator" spec="1.0.*" />
+    <hook src="hooks/vue-build.js" type="before_compile" />
 </widget>

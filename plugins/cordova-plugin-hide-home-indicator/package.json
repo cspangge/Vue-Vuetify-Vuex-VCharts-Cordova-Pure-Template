@@ -1,0 +1,52 @@
+{
+  "_from": "cordova-plugin-hide-home-indicator@1.0.*",
+  "_id": "cordova-plugin-hide-home-indicator@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-7ckqxOoybqBx4YxijOaJJR+hJco=",
+  "_location": "/cordova-plugin-hide-home-indicator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-hide-home-indicator@1.0.*",
+    "name": "cordova-plugin-hide-home-indicator",
+    "escapedName": "cordova-plugin-hide-home-indicator",
+    "rawSpec": "1.0.*",
+    "saveSpec": null,
+    "fetchSpec": "1.0.*"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-hide-home-indicator/-/cordova-plugin-hide-home-indicator-1.0.1.tgz",
+  "_shasum": "edc92ac4ea326ea071e18c628ce689251fa125ca",
+  "_spec": "cordova-plugin-hide-home-indicator@1.0.*",
+  "_where": "/Users/pangge/PhoneGap/template",
+  "author": {
+    "name": "Chip Bell"
+  },
+  "bugs": {
+    "url": "https://github.com/chipbell4/cordova-plugin-hide-home-indicator/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple cordova plugin to hide the iPhone X home indicator bar at the bottom",
+  "homepage": "https://github.com/chipbell4/cordova-plugin-hide-home-indicator#readme",
+  "keywords": [
+    "cordova",
+    "home",
+    "iphonex"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cordova-plugin-hide-home-indicator",
+  "repository": {
+    "url": "git+https://github.com/chipbell4/cordova-plugin-hide-home-indicator.git",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
