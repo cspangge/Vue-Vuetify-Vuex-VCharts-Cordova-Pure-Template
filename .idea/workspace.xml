@@ -2,20 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/RELEASENOTES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/android/StatusBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/ios/CDVStatusBar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/ios/CDVStatusBar.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/windows/StatusBarProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/wp/StatusBar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/tests/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/tests/plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/tests/tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/www/statusbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/chunk-vendors.ae8b2735.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/about.bb062df0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/app.1d33bd12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/chunk-vendors.6481087b.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/about.a86096eb.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/about.a86096eb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/about.a86096eb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.ec08fddc.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.ec08fddc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.ec08fddc.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-vendors.f227ac08.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-vendors.f227ac08.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-vendors.f227ac08.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/android.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/chunk-vendors.a13529ac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/about.a86096eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.ec08fddc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-vendors.f227ac08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/Assets.car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/HelloCordova" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/HelloCordova" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/MainViewController.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/MainViewController.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/css/chunk-vendors.a13529ac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/js/about.a86096eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/js/app.ec08fddc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/www/js/chunk-vendors.f227ac08.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/www/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/www/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/css/chunk-vendors.a13529ac.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/www/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/js/about.a86096eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/js/app.ec08fddc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/www/js/chunk-vendors.f227ac08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/android.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/fetch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/ios.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/chunk-vendors.a13529ac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/about.a86096eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/app.ec08fddc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/chunk-vendors.f227ac08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,22 +163,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1678" height="362" key="GridCell.Tab.0.bottom" timestamp="1585835635881">
-      <screen x="0" y="23" width="2560" height="1334" />
+    <state width="1664" height="362" key="GridCell.Tab.0.bottom" timestamp="1585868533622">
+      <screen x="0" y="23" width="2560" height="1336" />
     </state>
     <state width="1678" height="362" key="GridCell.Tab.0.bottom/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635881" />
-    <state width="1678" height="362" key="GridCell.Tab.0.center" timestamp="1585835635879">
-      <screen x="0" y="23" width="2560" height="1334" />
+    <state width="1664" height="362" key="GridCell.Tab.0.bottom/0.23.2560.1336/2560.210.1680.1027@0.23.2560.1336" timestamp="1585868533622" />
+    <state width="1664" height="362" key="GridCell.Tab.0.center" timestamp="1585868533622">
+      <screen x="0" y="23" width="2560" height="1336" />
     </state>
     <state width="1678" height="362" key="GridCell.Tab.0.center/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635879" />
-    <state width="1678" height="362" key="GridCell.Tab.0.left" timestamp="1585835635879">
-      <screen x="0" y="23" width="2560" height="1334" />
+    <state width="1664" height="362" key="GridCell.Tab.0.center/0.23.2560.1336/2560.210.1680.1027@0.23.2560.1336" timestamp="1585868533622" />
+    <state width="1664" height="362" key="GridCell.Tab.0.left" timestamp="1585868533621">
+      <screen x="0" y="23" width="2560" height="1336" />
     </state>
     <state width="1678" height="362" key="GridCell.Tab.0.left/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635879" />
-    <state width="1678" height="362" key="GridCell.Tab.0.right" timestamp="1585835635880">
-      <screen x="0" y="23" width="2560" height="1334" />
+    <state width="1664" height="362" key="GridCell.Tab.0.left/0.23.2560.1336/2560.210.1680.1027@0.23.2560.1336" timestamp="1585868533621" />
+    <state width="1664" height="362" key="GridCell.Tab.0.right" timestamp="1585868533622">
+      <screen x="0" y="23" width="2560" height="1336" />
     </state>
     <state width="1678" height="362" key="GridCell.Tab.0.right/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585835635880" />
+    <state width="1664" height="362" key="GridCell.Tab.0.right/0.23.2560.1336/2560.210.1680.1027@0.23.2560.1336" timestamp="1585868533622" />
     <state x="1181" y="329" key="SettingsEditor" timestamp="1585838199015">
       <screen x="0" y="23" width="2560" height="1334" />
     </state>

@@ -102,11 +102,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		pZhBISGvXO6LKoNo5l4oFnS+kvU=
+		epF7vOAgWRtVZtX8Hl/JBAFO6F4=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		idc6QywUBOScbtvnLQRk2ZXo6z8=
+		UttLfCd9+/hbAv4daYOed6yAJbk=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		ATbw7XPxMendEWLFTQdn23sjsdc=
+		d+3sfKYzCRN/ZwgJfem7vUgpfmU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		ENDK/e+2Gpfs+JokK0F+NJXuTSk=
+		F82Ta0bMgNt0tk1cFgXi0fiCEss=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		ixjezLFvyiTHEUqbLWlOjm204Bc=
+		qu7LUBCjR9gOxV/YIBwMvb5oPRk=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		H/ovi4pJeO7y/l99ZzW1ZDP2MpY=
+		jeadAftArzkcXLnZF2pwPQ3YjrQ=
 		</data>
-		<key>www/css/chunk-vendors.a13529ac.css</key>
+		<key>www/css/chunk-vendors.ae8b2735.css</key>
 		<data>
-		mSEdTkP0o9lJ9lnYpFpEl1RAlsM=
+		GGiuZFdqi+FBRMLzcApLrB4gw1M=
 		</data>
 		<key>www/favicon.ico</key>
 		<data>
@@ -406,19 +406,27 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		kpkwELZQrbCTs1M2cE7wSjOABgo=
+		ujuEZ77tmZ36mXV9arr+Afvz6Zs=
 		</data>
-		<key>www/js/about.a86096eb.js</key>
+		<key>www/js/about.bb062df0.js</key>
 		<data>
 		p5khv6IVYAGebp6SR378luIH0KQ=
 		</data>
-		<key>www/js/app.ec08fddc.js</key>
+		<key>www/js/app.1d33bd12.js</key>
 		<data>
-		Grku4Uw+Vy1Z2Y2NnkF2/dGRmPA=
+		isAiz8Xu64nbHD2SqbzpmXg0GeI=
 		</data>
-		<key>www/js/chunk-vendors.f227ac08.js</key>
+		<key>www/js/chunk-vendors.6481087b.js</key>
 		<data>
-		KF1mRTyB0NzKMUS7kN65Fbpcc3A=
+		2DlcOUFKRB2vX30sKFCUGL4SMDc=
+		</data>
+		<key>www/plugins/cordova-plugin-hidescrollbar/www/hidescrollbar.js</key>
+		<data>
+		GhZc0RYDfEtVMwjDBBzKT1EF/bw=
+		</data>
+		<key>www/plugins/cordova-plugin-statusbar/www/statusbar.js</key>
+		<data>
+		HziXpqJBPTHIl6qne1lRWvRuots=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -691,22 +699,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pZhBISGvXO6LKoNo5l4oFnS+kvU=
+			epF7vOAgWRtVZtX8Hl/JBAFO6F4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rt802yGbUR3WrieBdpjL3K5DHF1iC/PHLUDnKb3m7G4=
+			KGxrO9UPfnZjaei1S/STY8yWg01e67Ih/pCifma7pMY=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			idc6QywUBOScbtvnLQRk2ZXo6z8=
+			UttLfCd9+/hbAv4daYOed6yAJbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			PvAYx9wMX5BXOxtWu0gTkOg0oFZrofLR+9AzY8gcBjY=
+			lrj+sJYTW7um8pCFERHaCoxfhL0uyJtO9TLqJCyX4lI=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -724,11 +732,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ATbw7XPxMendEWLFTQdn23sjsdc=
+			d+3sfKYzCRN/ZwgJfem7vUgpfmU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nl/Xt+WI9MmClZSFB91sBkfZJMPJeGheMvkwhbJQoR8=
+			qGHdfeW9uPVCwSKxb/Xb/A1Ev05lz4VU8tGzBICj1Rk=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
@@ -933,22 +941,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ENDK/e+2Gpfs+JokK0F+NJXuTSk=
+			F82Ta0bMgNt0tk1cFgXi0fiCEss=
 			</data>
 			<key>hash2</key>
 			<data>
-			DUmcbmMnJSLro386BR85Y4PkHVLhpSEieTsqglV2tuI=
+			iLB6GK8ie76efFxgQ9uzt3iP1SIBJ1hNIYFcbulvJqI=
 			</data>
 		</dict>
 		<key>config.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ixjezLFvyiTHEUqbLWlOjm204Bc=
+			qu7LUBCjR9gOxV/YIBwMvb5oPRk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uA4MCvX/FbJMGAsSWhJHjLSLsTmQFmgmNhh+ghvw3jE=
+			448hNHownY5VJAhSPqm9USZEYEpSZGpXECwQ4bbYLOA=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -1021,22 +1029,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H/ovi4pJeO7y/l99ZzW1ZDP2MpY=
+			jeadAftArzkcXLnZF2pwPQ3YjrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			FURBMyeq32xkHXqgeTlFobi50m3dOo6OplEctgYrzIE=
+			N1+6IWPRmk4k9UT0hQ3cDJSGcPGe/6SuXEWg43IAOzo=
 			</data>
 		</dict>
-		<key>www/css/chunk-vendors.a13529ac.css</key>
+		<key>www/css/chunk-vendors.ae8b2735.css</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mSEdTkP0o9lJ9lnYpFpEl1RAlsM=
+			GGiuZFdqi+FBRMLzcApLrB4gw1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			xb1eiqZykkr5bMosKEj2Ol8WruoaER+esdrTZIkdq58=
+			YAeUlSFe+GQnFKmwTQWdkPfOhFTEN3hrLFJAQMOqFi8=
 			</data>
 		</dict>
 		<key>www/favicon.ico</key>
@@ -1505,14 +1513,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kpkwELZQrbCTs1M2cE7wSjOABgo=
+			ujuEZ77tmZ36mXV9arr+Afvz6Zs=
 			</data>
 			<key>hash2</key>
 			<data>
-			RyeA/XZ1LduTGb+09qU9X2YIGAsT1FLyWsOG/+dQ/Lc=
+			3HmqofrGY1Ow2j8J6kZdth4P3dbRoTw0K2gZZ41uJfc=
 			</data>
 		</dict>
-		<key>www/js/about.a86096eb.js</key>
+		<key>www/js/about.bb062df0.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1523,26 +1531,48 @@
 			uxiLjyUhb5CgrnK7hZqgfifaSjbddUE9SEwGvNvz290=
 			</data>
 		</dict>
-		<key>www/js/app.ec08fddc.js</key>
+		<key>www/js/app.1d33bd12.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Grku4Uw+Vy1Z2Y2NnkF2/dGRmPA=
+			isAiz8Xu64nbHD2SqbzpmXg0GeI=
 			</data>
 			<key>hash2</key>
 			<data>
-			02I0PKzYRZPqx255nPrGlrXwdu6l4sllmwCi9vAPM8w=
+			o7uWvdpBdWQ3qXzjz3xh57UrYZr7XPSwk4CvUJggOnE=
 			</data>
 		</dict>
-		<key>www/js/chunk-vendors.f227ac08.js</key>
+		<key>www/js/chunk-vendors.6481087b.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KF1mRTyB0NzKMUS7kN65Fbpcc3A=
+			2DlcOUFKRB2vX30sKFCUGL4SMDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3puyueXfeBNj7VblMP8n3pf0OJSzG3A5VP7hm9fn+3A=
+			3UhUFKgZAbA4+Ru9TurseEz2jPOXMg5UmjuGXwawUl8=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-hidescrollbar/www/hidescrollbar.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GhZc0RYDfEtVMwjDBBzKT1EF/bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rl/QLwL3l8Sw+VeLeIhSp0Ud3ZsADQytahfNb3ubzrA=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-statusbar/www/statusbar.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HziXpqJBPTHIl6qne1lRWvRuots=
+			</data>
+			<key>hash2</key>
+			<data>
+			rmEzcFdHfjWWorWJEWCULGXJxFhiV0+sewncVRyFpHk=
 			</data>
 		</dict>
 	</dict>

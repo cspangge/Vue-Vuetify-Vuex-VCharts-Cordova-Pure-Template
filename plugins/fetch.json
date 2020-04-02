@@ -10,7 +10,23 @@
   "cordova-plugin-hide-home-indicator": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-hide-home-indicator@1.0.*"
+      "id": "cordova-plugin-hide-home-indicator@^1.0.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-statusbar@2.4.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-hidescrollbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-hidescrollbar"
     },
     "is_top_level": true,
     "variables": {}

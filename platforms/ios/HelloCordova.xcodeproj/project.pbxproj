@@ -15,6 +15,9 @@
 		302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 302D95F014D2391D003F00A1 /* MainViewController.xib */; };
 		6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */; };
 		B7A1C073A84044D1B208DEE8 /* HideHomeIndicatorPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = CEC697F7429640D7A02ED759 /* HideHomeIndicatorPlugin.m */; };
+		BEE8F81F63FB4D909CB182E5 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FC9B008247E441493854EBB /* CDVStatusBar.m */; };
+		BF9896E574D0416FBE439304 /* CDVHideScrollbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCBC56007804A43A0C55077 /* CDVHideScrollbar.m */; };
+		8C4DD1F70B0F40A9829A925A /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BE3448212F9414D85A48BA1 /* libz.tbd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +67,11 @@
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		ED33DF2A687741AEAF9F8254 /* Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = HelloCordova/config.xml; sourceTree = "<group>"; };
+		0FC9B008247E441493854EBB /* CDVStatusBar.m */ = {isa = PBXFileReference; name = "CDVStatusBar.m"; path = "cordova-plugin-statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		40F94C08C8BB42D683EC50E7 /* CDVStatusBar.h */ = {isa = PBXFileReference; name = "CDVStatusBar.h"; path = "cordova-plugin-statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		3DCBC56007804A43A0C55077 /* CDVHideScrollbar.m */ = {isa = PBXFileReference; name = "CDVHideScrollbar.m"; path = "cordova-plugin-hidescrollbar/CDVHideScrollbar.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		2346B3E53CA54EA9B5501D85 /* CDVHideScrollbar.h */ = {isa = PBXFileReference; name = "CDVHideScrollbar.h"; path = "cordova-plugin-hidescrollbar/CDVHideScrollbar.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		1BE3448212F9414D85A48BA1 /* libz.tbd */ = {isa = PBXFileReference; name = "libz.tbd"; path = "usr/lib/libz.tbd"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = sourcecode.text-based-dylib-definition; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +80,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
+				8C4DD1F70B0F40A9829A925A /* libz.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,6 +151,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				1BE3448212F9414D85A48BA1 /* libz.tbd */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -170,6 +180,10 @@
 			children = (
 				CEC697F7429640D7A02ED759 /* HideHomeIndicatorPlugin.m */,
 				209CDDAB3D174DA7968DE011 /* HideHomeIndicatorPlugin.h */,
+				0FC9B008247E441493854EBB /* CDVStatusBar.m */,
+				40F94C08C8BB42D683EC50E7 /* CDVStatusBar.h */,
+				3DCBC56007804A43A0C55077 /* CDVHideScrollbar.m */,
+				2346B3E53CA54EA9B5501D85 /* CDVHideScrollbar.h */,
 			);
 			name = Plugins;
 			path = HelloCordova/Plugins;
@@ -300,6 +314,8 @@
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				B7A1C073A84044D1B208DEE8 /* HideHomeIndicatorPlugin.m in Sources */,
+				BEE8F81F63FB4D909CB182E5 /* CDVStatusBar.m in Sources */,
+				BF9896E574D0416FBE439304 /* CDVHideScrollbar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

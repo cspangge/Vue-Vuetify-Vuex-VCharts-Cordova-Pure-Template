@@ -18,6 +18,11 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <!--    下面这三段代码，是关闭系统状态栏，并设置背景颜色    -->
+        <preference name="StatusBarOverlaysWebView" value="false" />
+        <preference name="StatusBarBackgroundColor" value="#F1F1F1" />
+        <preference name="StatusBarDefaultScrollToTop" value="true" />
+        <preference name="StatusBarStyle" value="default" />
         <!--    下面这两段代码，是防止上下滑动出现白色或黑色区域    -->
         <preference name="WebViewBounce" value="false" />
         <preference name="DisallowOverscroll" value="true" />
@@ -27,8 +32,9 @@
         <allow-intent href="itms-apps:*" />
         <!--    下面这三段代码，是关闭系统状态栏，并设置背景颜色    -->
         <preference name="StatusBarOverlaysWebView" value="false" />
-        <preference name="StatusBarBackgroundColor" value="black" />
+        <preference name="StatusBarBackgroundColor" value="#F1F1F1" />
         <preference name="StatusBarDefaultScrollToTop" value="true" />
+        <preference name="StatusBarStyle" value="default" />
         <!--    下面这两段代码，是防止上下滑动出现白色或黑色区域    -->
         <preference name="WebViewBounce" value="false" />
         <preference name="DisallowOverscroll" value="true" />

@@ -15,5 +15,5 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <hook src="hooks/vue-build.ts" type="before_compile" />
+    <hook src="hooks/vue-build.js" type="before_compile" />
 </widget>

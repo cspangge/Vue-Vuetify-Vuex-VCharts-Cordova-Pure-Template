@@ -23,6 +23,13 @@
         <param name="ios-package" value="HideHomeIndicatorPlugin" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="StatusBar">
+        <param name="ios-package" value="CDVStatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="HideScrollbar">
+        <param name="ios-package" value="CDVHideScrollbar" />
+    </feature>
     <name>HelloCordova</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -55,7 +62,8 @@
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="StatusBarOverlaysWebView" value="false" />
-    <preference name="StatusBarBackgroundColor" value="black" />
+    <preference name="StatusBarStyle" value="default" />
+    <preference name="StatusBarBackgroundColor" value="#F1F1F1" />
     <preference name="StatusBarDefaultScrollToTop" value="true" />
     <preference name="WebViewBounce" value="false" />
 </widget>

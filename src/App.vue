@@ -1,10 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
+    <v-app-bar app flat color="#F1F1F1" class="black--text">
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
@@ -40,6 +36,12 @@
     <v-content>
       <HelloWorld/>
     </v-content>
+
+    <v-footer padless fixed color="#F1F1F1" class="black--text">
+      <v-col class="text-center" cols="12">
+        {{ new Date().getFullYear() }} — <strong>Vuetify</strong>
+      </v-col>
+    </v-footer>
   </v-app>
 </template>
 

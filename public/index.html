@@ -6,9 +6,26 @@
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
+    <style>
+      * {
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      input, textarea {
+        -webkit-user-select: auto !important;
+        -khtml-user-select: auto !important;
+        -moz-user-select: auto !important;
+        -ms-user-select: auto !important;
+        user-select: auto !important;
+      }
+    </style>
   </head>
   <body>
-  <script src="cordova.js"></script>
+    <script src="cordova.js"></script>
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
@@ -17,14 +34,23 @@
     <script type="text/javascript">
       document.addEventListener('deviceready', onDeviceReady, false)
       function onDeviceReady () {
+        // Change Style for iOS device
         if (cordova.platformId === 'ios') {
-          // ios
+          // Change Status Bar Style
           StatusBar.overlaysWebView(false)
-          StatusBar.backgroundColorByName('black')
-          StatusBar.styleLightContent()
+          StatusBar.backgroundColorByHexString('#F1F1F1')
+          StatusBar.styleDefault()
+          // Hide Scroll Bar on iOS
+          plugins.hideScrollbar.hide(function(){
+            // Success
+          });
         }
+        // Change Style for Android device
         if (cordova.platformId === 'android') {
-          // Android
+          // Change Status Bar Style
+          StatusBar.overlaysWebView(false)
+          StatusBar.backgroundColorByHexString('#F1F1F1')
+          StatusBar.styleDefault()
         }
       }
     </script>
