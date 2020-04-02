@@ -16,17 +16,20 @@
   },
   "main": "index.js",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2",
     "cordova-android": "^8.1.0",
     "cordova-browser": "^6.0.0",
     "cordova-ios": "^5.1.1",
     "core-js": "^3.6.4",
     "ios-sim": "^9.0.0",
+    "roboto-fontface": "*",
     "shelljs": "^0.8.3",
     "shjs": "^0.1.0",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.2",
     "vue-property-decorator": "^8.3.0",
     "vue-router": "^3.1.5",
+    "vuetify": "^2.2.11",
     "vuex": "^3.1.2"
   },
   "devDependencies": {
@@ -42,17 +45,14 @@
     "cordova-plugin-hide-home-indicator": "^1.0.1",
     "cordova-plugin-whitelist": "^1.3.4",
     "node-sass": "^4.12.0",
+    "sass": "^1.19.0",
     "sass-loader": "^8.0.2",
     "typescript": "~3.7.5",
-    "vue-template-compiler": "^2.6.11"
+    "vue-cli-plugin-vuetify": "~2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
   },
   "_id": "helloworld@1.0.0",
-  "displayName": "HelloCordova",
-  "keywords": [
-    "ecosystem:cordova"
-  ],
-  "license": "Apache-2.0",
-  "readme": "ERROR: No README data found!",
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
@@ -63,5 +63,11 @@
       "android",
       "browser"
     ]
-  }
+  },
+  "displayName": "HelloCordova",
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "license": "Apache-2.0",
+  "readme": "ERROR: No README data found!"
 }
