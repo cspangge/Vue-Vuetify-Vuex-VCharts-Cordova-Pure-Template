@@ -64,7 +64,10 @@
           case 5:
             return ''
           default:
-            return ''
+            return 'location=no,clearcache=yes,clearsessioncache=yes' +
+              'closebuttoncaption=Done,footer=yes,hardwareback=yes,hideurlbar=yes' +
+              'zoom=no,mediaPlaybackRequiresUserAction=yes,usewkwebview=yes' +
+              'presentationstyle=pagesheet'
         }
       }
     },

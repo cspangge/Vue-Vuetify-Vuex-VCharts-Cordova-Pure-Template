@@ -85,9 +85,7 @@
     "no-var-requires": true,
     "object-literal-shorthand": true,
     "one-variable-per-declaration": { "options": ["ignore-for-loop"] },
-    "only-arrow-functions": {
-      "options": ["allow-declarations", "allow-named-functions"]
-    },
+    "only-arrow-functions": [true, "allow-declarations", "allow-named-functions"],
     "prefer-const": true,
     "prefer-for-of": true,
     "radix": true,
