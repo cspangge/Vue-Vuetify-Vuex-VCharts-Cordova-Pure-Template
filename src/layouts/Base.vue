@@ -1,8 +1,10 @@
 <template>
-    <v-content>
+    <div>
         <base-app-bar></base-app-bar>
-        <router-view></router-view>
-    </v-content>
+        <v-content>
+            <router-view></router-view>
+        </v-content>
+    </div>
 </template>
 
 <script lang="ts">

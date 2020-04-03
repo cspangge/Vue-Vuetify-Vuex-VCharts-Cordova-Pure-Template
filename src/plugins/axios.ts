@@ -5,11 +5,11 @@ import axios from 'axios'
 import qs from 'qs'
 
 // Full config:  https://github.com/axios/axios#request-config
-// axios.defaults.baseURL = process.env.baseURL || process.env.apiUrl || '';
+// axios.defaults.baseURL = process.env.baseURL || process.env.apiUrl || ''
 // axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
 // axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
 
-const localConfig = {
+const config = {
   baseURL: process.env.baseURL || process.env.apiUrl || '',
   headers: {
     // 'X-Requested-With': 'XMLHttpRequest', // 会导致跨域
@@ -32,74 +32,69 @@ const localConfig = {
   responseEncoding: 'utf8', // default
 }
 
-const _axios = axios.create(localConfig)
+const _axios = axios.create(config)
 
 // Add a request interceptor
-function requestSuccess(config: any) {
-  // Do something before request is sent
-  // 在这里加入cookie检查来确保页面请求的时候用户是合法有效的登录状态
-  // Loading动画也在这里启动
-  return config
-}
-function requestFailed(error: any) {
-  // Do something with request error
-  return Promise.reject(error)
-}
 _axios.interceptors.request.use(
-  requestSuccess,
-  requestFailed
+  // tslint:disable-next-line:no-shadowed-variable
+  (config) => {
+    // Do something before request is sent
+    // 在这里加入cookie检查来确保页面请求的时候用户是合法有效的登录状态
+    // Loading动画也在这里启动
+    return config
+  },
+  (error) => {
+    // Do something with request error
+    return Promise.reject(error)
+  }
 )
 
 // Add a response interceptor
-function responseSuccess(response: any) {
-  // Do something with response data
-  if (response.status === 200) {
-    return Promise.resolve(response)
-  } else {
-    return Promise.reject(response)
-  }
-}
-function responseFailed(error: any) {
-  // Do something with response error
-  if (error.response.status) {
-    return Promise.reject(error)
-  }
-}
 _axios.interceptors.response.use(
-  responseSuccess,
-  responseFailed
+  (response) => {
+    // Do something with response data
+    if (response.status === 200) {
+      return Promise.resolve(response)
+    } else {
+      return Promise.reject(response)
+    }
+  },
+  (error) => {
+    // Do something with response error
+    if (error.response.status) {
+      return Promise.reject(error)
+    }
+  }
 )
 
-// Plugin Initialize
-function AxiosPlugin() {
-  const LocalVue = Vue
-}
-
-AxiosPlugin.install = (LocalVue: any) => {
-  // 1. add global method or property
-  LocalVue.axios = _axios
-  // 2. add an instance method: get
-  LocalVue.prototype.$get = (url: any, params: any) => {
-    return new Promise((resolve, reject) => {
-      _axios.get(url, {
-        params,
-      }).then((res) => {
-        resolve(res.data)
-      }).catch((err) => {
-        reject(err.data)
+const AxiosPlugin = {
+  // tslint:disable-next-line:no-shadowed-variable
+  install(Vue: any) {
+    // 1. add global method or property
+    Vue.axios = _axios
+    // 2. add an instance method: get
+    Vue.prototype.$get = (url: any, params: any) => {
+      return new Promise((resolve, reject) => {
+        _axios.get(url, {
+          params,
+        }).then((res) => {
+          resolve(res.data)
+        }).catch((err) => {
+          reject(err.data)
+        })
       })
-    })
-  }
-  // 2. add an instance method: post
-  LocalVue.prototype.$post = (url: any, params: any) => {
-    return new Promise((resolve, reject) => {
-      _axios.post(url, qs.stringify(params)).then((res) => {
-        resolve(res.data)
-      }).catch((err) => {
-        reject(err.data)
+    }
+    // 2. add an instance method: post
+    Vue.prototype.$post = (url: any, params: any) => {
+      return new Promise((resolve, reject) => {
+        _axios.post(url, qs.stringify(params)).then((res) => {
+          resolve(res.data)
+        }).catch((err) => {
+          reject(err.data)
+        })
       })
-    })
-  }
+    }
+  },
 }
 
 Vue.use(AxiosPlugin)

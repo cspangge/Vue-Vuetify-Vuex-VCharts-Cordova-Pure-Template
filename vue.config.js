@@ -11,8 +11,8 @@ module.exports = {
   "configureWebpack": {
     "performance": {
       "hints": process.env.NODE_ENV === 'production' ? "warning" : false,
-      "maxEntrypointSize": 512000,
-      "maxAssetSize": 512000,
+      "maxEntrypointSize": 1024000,
+      "maxAssetSize": 1024000,
     },
   },
 

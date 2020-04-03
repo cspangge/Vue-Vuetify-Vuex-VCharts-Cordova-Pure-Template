@@ -2,35 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/base/BaseAppBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Base.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Base/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/sample.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Sample/Sample.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/css/home.e5ec3ebc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/app.6aa44663.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/base.f7ef37a6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/chunk-dcb209ec.9382d62f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/chunk-vendors.8c7a7855.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/js/home.4f3e53d6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/chunk-vendors.ae8b2735.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/img/logo.63a7d78d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/img/logo.82b9c7a5.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/about.7ce9842e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.4745c1a8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-vendors.cb77b270.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloI18n.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/element/Link.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/element/Link.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.e09ae56f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/base.ad11d7f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-dcb209ec.3e74707e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/chunk-vendors.ead4515e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/home.7576b9b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Base.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Base.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/plugins/axios.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/axios.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/chunk-vendors.ae8b2735.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/img/logo.63a7d78d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/img/logo.82b9c7a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Base/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Base/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/about.7ce9842e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/app.4745c1a8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/chunk-vendors.cb77b270.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/app.e09ae56f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/base.ad11d7f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/chunk-dcb209ec.3e74707e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/chunk-vendors.ead4515e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/home.7576b9b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1ZzE3rzOcyG6dNboslPEyrww1lx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,6 +73,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedtslint" value="true" />
     <property name="js.phonegap.settings.workdir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/res" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -75,10 +83,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="studioMain" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -143,6 +151,10 @@
     </state>
     <state x="1390" y="490" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585874040791" />
     <state x="1390" y="491" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1336/2560.210.1680.1027@0.23.2560.1336" timestamp="1585874277355" />
+    <state x="1287" y="355" key="#com.intellij.ide.actionMacro.EditMacrosDialog" timestamp="1585905789065">
+      <screen x="0" y="23" width="2560" height="1334" />
+    </state>
+    <state x="1287" y="355" key="#com.intellij.ide.actionMacro.EditMacrosDialog/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585905789065" />
     <state x="1425" y="444" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585901920917">
       <screen x="0" y="23" width="2560" height="1334" />
     </state>
@@ -183,9 +195,9 @@
       <screen x="0" y="23" width="2560" height="1334" />
     </state>
     <state x="1491" y="323" key="RollbackChangesDialog/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585871268159" />
-    <state x="1181" y="329" key="SettingsEditor" timestamp="1585838199015">
+    <state x="498" y="318" key="SettingsEditor" timestamp="1585911807399">
       <screen x="0" y="23" width="2560" height="1334" />
     </state>
-    <state x="1181" y="329" key="SettingsEditor/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585838199015" />
+    <state x="498" y="318" key="SettingsEditor/0.23.2560.1334/2560.210.1680.1027@0.23.2560.1334" timestamp="1585911807399" />
   </component>
 </project>
