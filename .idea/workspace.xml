@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="" />
+    <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/plugins/axios.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585833326245</updated>
       <workItem from="1585833330385" duration="7089000" />
+      <workItem from="1585894519273" duration="585000" />
     </task>
     <servers />
   </component>
