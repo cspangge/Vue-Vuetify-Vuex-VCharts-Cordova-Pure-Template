@@ -11,6 +11,10 @@
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
     <name>HelloCordova</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -28,6 +32,14 @@
     <allow-intent href="geo:*" />
     <hook src="hooks/vue-build.js" type="before_compile" />
     <allow-intent href="market:*" />
+    <splash density="land-hdpi" src="res/screen/android/drawable-land-hdpi-screen.png" />
+    <splash density="land-ldpi" src="res/screen/android/drawable-land-ldpi-screen.png" />
+    <splash density="land-mdpi" src="res/screen/android/drawable-land-mdpi-screen.png" />
+    <splash density="land-xhdpi" src="res/screen/android/drawable-land-xhdpi-screen.png" />
+    <splash density="port-hdpi" src="res/screen/android/drawable-port-hdpi-screen.png" />
+    <splash density="port-ldpi" src="res/screen/android/drawable-port-ldpi-screen.png" />
+    <splash density="port-mdpi" src="res/screen/android/drawable-port-mdpi-screen.png" />
+    <splash density="port-xhdpi" src="res/screen/android/drawable-port-xhdpi-screen.png" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#F1F1F1" />
@@ -35,4 +47,6 @@
     <preference name="StatusBarStyle" value="default" />
     <preference name="WebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="5000" />
 </widget>

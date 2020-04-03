@@ -28,6 +28,8 @@
 		51F9E920D56446E98A9136D4 /* CDVWKWebViewUIDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 833AB38B8DCE42DEA3D66761 /* CDVWKWebViewUIDelegate.m */; };
 		B6EFBCDFD2354889A3BBA684 /* CDVWKProcessPoolFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 210331134CF14A7881EAFF8F /* CDVWKProcessPoolFactory.m */; };
 		8FFB4A6AF6FF41239702D37E /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE1E38D766D049D3A35B144E /* WebKit.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		D985FE642CD44109AB87EF54 /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 93A6E62D103C4FBC874DF141 /* CDVSplashScreen.m */; };
+		E3AF288A7C2D417EB06CEAA5 /* CDVViewController+SplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = FD40CFD19480426190195103 /* CDVViewController+SplashScreen.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +103,10 @@
 		11F784E0BC7745578C7C2076 /* CDVWKWebViewUIDelegate.h */ = {isa = PBXFileReference; name = "CDVWKWebViewUIDelegate.h"; path = "cordova-plugin-wkwebview-engine/CDVWKWebViewUIDelegate.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 		C9780E4C492D4FE3BB0C435E /* CDVWKProcessPoolFactory.h */ = {isa = PBXFileReference; name = "CDVWKProcessPoolFactory.h"; path = "cordova-plugin-wkwebview-engine/CDVWKProcessPoolFactory.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 		BE1E38D766D049D3A35B144E /* WebKit.framework */ = {isa = PBXFileReference; name = "WebKit.framework"; path = "System/Library/Frameworks/WebKit.framework"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		93A6E62D103C4FBC874DF141 /* CDVSplashScreen.m */ = {isa = PBXFileReference; name = "CDVSplashScreen.m"; path = "cordova-plugin-splashscreen/CDVSplashScreen.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		FD40CFD19480426190195103 /* CDVViewController+SplashScreen.m */ = {isa = PBXFileReference; name = "CDVViewController+SplashScreen.m"; path = "cordova-plugin-splashscreen/CDVViewController+SplashScreen.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		E386B1AB0CD84D6FB46A7CE2 /* CDVSplashScreen.h */ = {isa = PBXFileReference; name = "CDVSplashScreen.h"; path = "cordova-plugin-splashscreen/CDVSplashScreen.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		BB43635656274020A18DEDEE /* CDVViewController+SplashScreen.h */ = {isa = PBXFileReference; name = "CDVViewController+SplashScreen.h"; path = "cordova-plugin-splashscreen/CDVViewController+SplashScreen.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -233,6 +239,10 @@
 				5FE7491C87134CC0B03A04FA /* CDVWKWebViewEngine.h */,
 				11F784E0BC7745578C7C2076 /* CDVWKWebViewUIDelegate.h */,
 				C9780E4C492D4FE3BB0C435E /* CDVWKProcessPoolFactory.h */,
+				93A6E62D103C4FBC874DF141 /* CDVSplashScreen.m */,
+				FD40CFD19480426190195103 /* CDVViewController+SplashScreen.m */,
+				E386B1AB0CD84D6FB46A7CE2 /* CDVSplashScreen.h */,
+				BB43635656274020A18DEDEE /* CDVViewController+SplashScreen.h */,
 			);
 			name = Plugins;
 			path = HelloCordova/Plugins;
@@ -374,6 +384,8 @@
 				606F6F3512B344EF80C68827 /* CDVWKWebViewEngine.m in Sources */,
 				51F9E920D56446E98A9136D4 /* CDVWKWebViewUIDelegate.m in Sources */,
 				B6EFBCDFD2354889A3BBA684 /* CDVWKProcessPoolFactory.m in Sources */,
+				D985FE642CD44109AB87EF54 /* CDVSplashScreen.m in Sources */,
+				E3AF288A7C2D417EB06CEAA5 /* CDVViewController+SplashScreen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +493,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				WK_WEB_VIEW_ONLY = 0;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 			};
 			name = Debug;
 		};
@@ -522,6 +535,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				WK_WEB_VIEW_ONLY = 0;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 			};
 			name = Release;
 		};
