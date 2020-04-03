@@ -2,92 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b51d0d3-3eec-4f4c-a771-f71812eb8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/res/icon/android/drawable-hdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/android/drawable-ldpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/android/drawable-mdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/android/drawable-xhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/android/drawable-xxhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/android/drawable-xxxhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-50@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-72@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-small@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon-small@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/ios/icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square150x150Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square150x150Logo.scale-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square30x30Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square310x310Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square44x44Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square44x44Logo.scale-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square70x70Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square71x71Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Square71x71Logo.scale-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/StoreLogo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/StoreLogo.scale-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Wide310x150Logo.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/windows/Wide310x150Logo.scale-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/wp8/ApplicationIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/icon/wp8/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-land-hdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-land-ldpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-land-mdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-land-xhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-land-xxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-land-xxxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-port-hdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-port-ldpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-port-mdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-port-xhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-port-xxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/android/drawable-port-xxxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-568h@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-667h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-Landscape-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-Landscape@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-Landscape~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-Portrait@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default-Portrait~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/ios/Default~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/windows/SplashScreen.scale-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/windows/SplashScreenPhone.scale-240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/screen/wp8/screen-portrait.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/android.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/res/xml/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/browser.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/js/about.76e6878d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/browser/www/js/app.f39ab84d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon20x20@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon20x20@2x~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29@2x~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon29x29~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40@2x~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon40x40~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon50x50@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon50x50@2x~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon50x50~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon50x50~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon57x57@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon57x57@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon72x72@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon72x72@2x~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon72x72~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon72x72~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon76x76@2x~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon76x76@2x~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon76x76~ipad.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/AppIcon76x76~ipad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/Assets.car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/HelloCordova" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/HelloCordova" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/MainViewController.nib" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/MainViewController.nib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/_CodeSignature/CodeResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova.xcarchive/Products/Applications/HelloCordova.app/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-29.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-40.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-50.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-72.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-76.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/Images.xcassets/AppIcon.appiconset/icon@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/HelloCordova/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova_plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/android.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/browser.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/fetch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/ios.json" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/ios.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
