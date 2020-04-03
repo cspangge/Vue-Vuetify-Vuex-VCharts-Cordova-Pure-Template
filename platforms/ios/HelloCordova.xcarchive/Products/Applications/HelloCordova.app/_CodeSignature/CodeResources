@@ -102,11 +102,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		1n03OVlY24rBLggehbkq1rA9LFA=
+		OejxMO1zTj8fkJyBiOe+cx0WdiQ=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		yTtzM1GRxUbO3XEOXRnxeIxkBWo=
+		zzxmsTVUX3U6ejhp1UNwATJfibM=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		S/q4wH7NkbSf2retWMCsf+4jZlo=
+		QzW/Ptg3+SQ/e8RVBSaeCWBUT5M=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		ykFba2Um0K2toJ4jqSKllK7ZGmc=
+		p7p+HBmc5XAiTLrTjxnkCe3PBO4=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		qu7LUBCjR9gOxV/YIBwMvb5oPRk=
+		iXO7ZnfUUTZVuu1DDS3+hvHjqj8=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		jeadAftArzkcXLnZF2pwPQ3YjrQ=
+		bzXKgUloeL4GkPwpCJflUMV0xfw=
 		</data>
 		<key>www/css/chunk-vendors.ae8b2735.css</key>
 		<data>
@@ -406,15 +406,15 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		QLrKAZ8ed0TbNd+WU/CZVBh9QmA=
+		07mLI32A2Odrv0I7JLylIEtt13k=
 		</data>
-		<key>www/js/about.dc259a05.js</key>
+		<key>www/js/about.d7ce3f45.js</key>
 		<data>
 		p5khv6IVYAGebp6SR378luIH0KQ=
 		</data>
-		<key>www/js/app.0d9d4275.js</key>
+		<key>www/js/app.d6dbcf0c.js</key>
 		<data>
-		Fh3XGvq5hIj5S31kkJjWBkXhcZE=
+		NlSd3fO6xf1GVk9aD5X8fAfEZz8=
 		</data>
 		<key>www/js/chunk-vendors.cb77b270.js</key>
 		<data>
@@ -424,9 +424,21 @@
 		<data>
 		GhZc0RYDfEtVMwjDBBzKT1EF/bw=
 		</data>
+		<key>www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js</key>
+		<data>
+		TuTJMLkc2Lod8+TvrcfiL0kPCSM=
+		</data>
 		<key>www/plugins/cordova-plugin-statusbar/www/statusbar.js</key>
 		<data>
 		HziXpqJBPTHIl6qne1lRWvRuots=
+		</data>
+		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js</key>
+		<data>
+		Jf+80xptQsEGhUiGLgqUT/RQinI=
+		</data>
+		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview.js</key>
+		<data>
+		uSpOoBJtw3huMClDN2UUZQOjz/Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -699,22 +711,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1n03OVlY24rBLggehbkq1rA9LFA=
+			OejxMO1zTj8fkJyBiOe+cx0WdiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			HXTMHjaiBIrGs/mp66sctwTn9lkIHKn1y4R+mm3AyfQ=
+			/4nsqfUsDOjB1TEscbTmtzUh9V0GVVRJDi2oczXXhaA=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yTtzM1GRxUbO3XEOXRnxeIxkBWo=
+			zzxmsTVUX3U6ejhp1UNwATJfibM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dLVD/tfKdVPhKBZe1lBuokkJlQ8wu2kVrdMMu7wPBPQ=
+			ZTxq8nF/zLom1p1vgiqP84T/pjPs38Cf8S+qvekSV9M=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -732,11 +744,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			S/q4wH7NkbSf2retWMCsf+4jZlo=
+			QzW/Ptg3+SQ/e8RVBSaeCWBUT5M=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wt+aY/V0WzyrLlLrTsp96fqmapGT+2qvKqL5x7Y1zv8=
+			5J89xVaIC5y7ZaX57XXCGUexw0h2rIbo0A9mhFbZ7Y8=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
@@ -941,22 +953,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ykFba2Um0K2toJ4jqSKllK7ZGmc=
+			p7p+HBmc5XAiTLrTjxnkCe3PBO4=
 			</data>
 			<key>hash2</key>
 			<data>
-			X+ID7evPLk/BBbwnX65hfiMNNU758JynOoAw52Ucdgg=
+			yS3vjBGXm20ezN/MODFLoAIdxhoC5scLaUCf376tqWw=
 			</data>
 		</dict>
 		<key>config.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qu7LUBCjR9gOxV/YIBwMvb5oPRk=
+			iXO7ZnfUUTZVuu1DDS3+hvHjqj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			448hNHownY5VJAhSPqm9USZEYEpSZGpXECwQ4bbYLOA=
+			/rRltXc85qv8MaqnEMsW98I2h6RVEkf3BMdIIcbPPOw=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -1029,11 +1041,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jeadAftArzkcXLnZF2pwPQ3YjrQ=
+			bzXKgUloeL4GkPwpCJflUMV0xfw=
 			</data>
 			<key>hash2</key>
 			<data>
-			N1+6IWPRmk4k9UT0hQ3cDJSGcPGe/6SuXEWg43IAOzo=
+			IWaVGLK/VKT33YmY0eiZX2FlDb6i+5PnH3Yck97RkCc=
 			</data>
 		</dict>
 		<key>www/css/chunk-vendors.ae8b2735.css</key>
@@ -1513,14 +1525,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QLrKAZ8ed0TbNd+WU/CZVBh9QmA=
+			07mLI32A2Odrv0I7JLylIEtt13k=
 			</data>
 			<key>hash2</key>
 			<data>
-			38yJlzSdOZLRXkLQp5Bl3UOkRpW+ihN32QrWqo3DLsU=
+			gzUPZ0wyBijyNsVfCZV9yBZMUbcL4fjgf0ep8/O1d9c=
 			</data>
 		</dict>
-		<key>www/js/about.dc259a05.js</key>
+		<key>www/js/about.d7ce3f45.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1531,15 +1543,15 @@
 			uxiLjyUhb5CgrnK7hZqgfifaSjbddUE9SEwGvNvz290=
 			</data>
 		</dict>
-		<key>www/js/app.0d9d4275.js</key>
+		<key>www/js/app.d6dbcf0c.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fh3XGvq5hIj5S31kkJjWBkXhcZE=
+			NlSd3fO6xf1GVk9aD5X8fAfEZz8=
 			</data>
 			<key>hash2</key>
 			<data>
-			6IX94DBY9dk495t7E1EBdpyZwo0rsM+YDwoWc/OCcKY=
+			3mAHULeaVDTGU8cLPAZrKMVnywYaykTNgN05wARbwKE=
 			</data>
 		</dict>
 		<key>www/js/chunk-vendors.cb77b270.js</key>
@@ -1564,6 +1576,17 @@
 			Rl/QLwL3l8Sw+VeLeIhSp0Ud3ZsADQytahfNb3ubzrA=
 			</data>
 		</dict>
+		<key>www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuTJMLkc2Lod8+TvrcfiL0kPCSM=
+			</data>
+			<key>hash2</key>
+			<data>
+			GNUiqB5K96lsdpjSZzwWkG8RGfCbch0ZG9EzCa+fvx0=
+			</data>
+		</dict>
 		<key>www/plugins/cordova-plugin-statusbar/www/statusbar.js</key>
 		<dict>
 			<key>hash</key>
@@ -1573,6 +1596,28 @@
 			<key>hash2</key>
 			<data>
 			rmEzcFdHfjWWorWJEWCULGXJxFhiV0+sewncVRyFpHk=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview-exec.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jf+80xptQsEGhUiGLgqUT/RQinI=
+			</data>
+			<key>hash2</key>
+			<data>
+			30rJ9tZXBbfE/VcYCAuJHI8E7YpVPHFcxXVT9nbhkUo=
+			</data>
+		</dict>
+		<key>www/plugins/cordova-plugin-wkwebview-engine/src/www/ios/ios-wkwebview.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uSpOoBJtw3huMClDN2UUZQOjz/Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			snCU5zVffeqnWk/2NWikUz5/ywm8VWiiKUujPDpj0Yw=
 			</data>
 		</dict>
 	</dict>

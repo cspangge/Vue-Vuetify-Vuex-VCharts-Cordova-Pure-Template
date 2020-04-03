@@ -15,12 +15,23 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
       "clobbers": [
         "plugins.hideScrollbar"
       ]
+    },
+    {
+      "id": "cordova-plugin-inappbrowser.inappbrowser",
+      "file": "plugins/cordova-plugin-inappbrowser/www/inappbrowser.js",
+      "pluginId": "cordova-plugin-inappbrowser",
+      "clobbers": [
+        "cordova.InAppBrowser.open",
+        "window.open"
+      ]
     }
   ];
   module.exports.metadata = {
     "cordova-plugin-hide-home-indicator": "1.0.0",
     "cordova-plugin-whitelist": "1.3.4",
     "cordova-plugin-statusbar": "2.4.3",
-    "cordova-plugin-hidescrollbar": "1.0.2"
+    "cordova-plugin-hidescrollbar": "1.0.2",
+    "cordova-plugin-inappbrowser": "3.2.0",
+    "cordova-plugin-wkwebview-engine": "1.2.1"
   };
 });

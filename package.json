@@ -22,7 +22,9 @@
     "cordova-browser": "^6.0.0",
     "cordova-ios": "^5.1.1",
     "cordova-plugin-hidescrollbar": "^1.0.2",
+    "cordova-plugin-inappbrowser": "^3.2.0",
     "cordova-plugin-statusbar": "^2.4.3",
+    "cordova-plugin-wkwebview-engine": "^1.2.1",
     "core-js": "^3.6.4",
     "ios-sim": "^9.0.0",
     "roboto-fontface": "*",
@@ -65,7 +67,9 @@
       "cordova-plugin-whitelist": {},
       "cordova-plugin-hide-home-indicator": {},
       "cordova-plugin-statusbar": {},
-      "cordova-plugin-hidescrollbar": {}
+      "cordova-plugin-hidescrollbar": {},
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-wkwebview-engine": {}
     },
     "platforms": [
       "ios",

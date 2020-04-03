@@ -34,6 +34,8 @@
     <script type="text/javascript">
       document.addEventListener('deviceready', onDeviceReady, false)
       function onDeviceReady () {
+        const iab = cordova.InAppBrowser
+        window.open = iab.open; // InAppBrowser
         // Change Style for iOS device
         if (cordova.platformId === 'ios') {
           // Change Status Bar Style

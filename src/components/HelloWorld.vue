@@ -20,7 +20,12 @@
           <br>please join our online
           <a
             href="https://community.vuetifyjs.com"
-            target="_blank"
+            onclick="window.open('https://fullstack-tutorials.com', '_blank',
+            'location=no,clearcache=yes,clearsessioncache=yes' +
+              'closebuttoncaption=Done,footer=yes,hardwareback=yes,hideurlbar=yes' +
+              'zoom=no,mediaPlaybackRequiresUserAction=yes,usewkwebview=yes' +
+              'presentationstyle=pagesheet'
+            ); return false;"
           >Discord Community</a>
         </p>
       </v-col>
@@ -149,5 +154,6 @@
         },
       ],
     }),
+
   })
 </script>
